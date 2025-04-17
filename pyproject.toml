@@ -12,6 +12,7 @@ dynamic = [
 description = "Access Kaggle resources anywhere"
 authors = [
     { name = "Kaggle", email = "support@kaggle.com" },
+    { name = "GraphiteAI", email = "team@graphite-ai.com" },
 ]
 license = { file = "LICENSE.txt" }
 readme = "README.md"
@@ -43,8 +44,8 @@ dependencies = [
 kaggle = "kaggle.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/Kaggle/kaggle-api"
-Issues = "https://github.com/Kaggle/kaggle-api/issues"
+Homepage = "https://github.com/GraphiteAI/kaggle-api"
+Issues = "https://github.com/GraphiteAI/kaggle-api/issues"
 
 [tool.hatch.version]
 path = "src/__init__.py"
