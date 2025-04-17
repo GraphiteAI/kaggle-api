@@ -21,8 +21,8 @@ setup(
     url='https://github.com/GraphiteAI/kaggle-api',
     project_urls={
         'Documentation': 'https://www.kaggle.com/docs/api',
-        'GitHub': 'https://github.com/Kaggle/kaggle-api',
-        'Tracker': 'https://github.com/Kaggle/kaggle-api/issues',
+        'GitHub': 'https://github.com/GraphiteAI/kaggle-api',
+        'Tracker': 'https://github.com/GraphiteAI/kaggle-api/issues',
     },
     keywords=['Kaggle', 'API'],
     entry_points={'console_scripts': ['kaggle = kaggle.cli:main']},
