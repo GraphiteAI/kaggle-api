@@ -4240,7 +4240,7 @@ class KaggleApi:
             self.validate_dataset_string(dataset)
             urls = dataset.split('/')
             if len(urls) == 3:
-                return urls[0], urls[1], urls[2]
+                return urls[0], urls[1], int(urls[2])
             else:
                 return urls[0], urls[1], None
         else:
