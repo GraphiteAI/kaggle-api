@@ -16,9 +16,9 @@ setup(
         'tool implemented in Python. Beta release - Kaggle reserves the right to '
         'modify the API functionality currently offered.'
     ),
-    author='Kaggle',
-    author_email='support@kaggle.com',
-    url='https://github.com/Kaggle/kaggle-api',
+    author='GraphiteAI',
+    author_email='support@graphite-ai.net',
+    url='https://github.com/GraphiteAI/kaggle-api',
     project_urls={
         'Documentation': 'https://www.kaggle.com/docs/api',
         'GitHub': 'https://github.com/Kaggle/kaggle-api',
